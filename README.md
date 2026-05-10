@@ -1,3 +1,3 @@
-# DeekshaSecret website
+# VaultChat website
 
-https://codieninjaa.github.io/DeekshaSecret/
+https://codieninjaa.github.io/vault-chat/
